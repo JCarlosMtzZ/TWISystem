@@ -1,0 +1,16 @@
+.containerTabE {
+  background-color: #f8f9fb;
+  margin-top: 2.5%;
+  margin-bottom: 3%;
+  border-radius: 15px;
+}
+
+.headE {
+  margin-top: 2.5%;
+  color: #f8f9fb;
+}
+
+.scrollable-div {
+  max-height: 425px;
+  overflow: auto;
+}

@@ -1,0 +1,69 @@
+.content {
+  margin-top: 2.5%;
+  margin-bottom: 2.5%;
+}
+
+.stats {
+  margin-top: 5%;
+  margin-bottom: 5%
+}
+
+.botones {
+  margin-top: 9%;
+}
+
+.boton {
+  margin-bottom: 10%;
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5;
+  height: 70px;
+  padding: 5px;
+  font-size: 30px;
+}
+
+.NavLog {
+  text-decoration: none;
+  color: white;
+}
+
+.Stick {
+  width: 100%;
+  margin-bottom: 3%;
+}
+
+.columnMedal {
+  margin-top: 15%;
+}
+
+.columnMoney {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+  margin-top: 5%;
+  margin-left: 10%;
+}
+
+.columnScore {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+  margin-top: 5%;
+  margin-left: 10%;
+}
+
+.moneyAmount {
+  margin-top: 5.5%;
+}
+
+.pointsAmount {
+  margin-top: 12.5%;
+}
+
+.bar {
+  margin-bottom: 5%;
+}
+
+h5 {
+  margin-top: 15%;
+}

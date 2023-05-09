@@ -1,0 +1,33 @@
+.contentA {
+  margin-top: 3%;
+}
+
+.botonesA {
+  margin-top: 5%;
+}
+
+.botonA {
+  margin-top: 8%;
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5;
+  height: 70px;
+  padding: 5px;
+  font-size: 30px;
+  background-color: #f8f8f8;
+}
+
+.NavLog {
+  text-decoration: none;
+  color: white;
+}
+
+.navText {
+  color: #212429;
+}
+
+.StickA {
+  width: 70%;
+  margin-left: 15%;
+  margin-right: 15%;
+}

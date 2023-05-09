@@ -1,0 +1,33 @@
+body {
+  background-color: #c03939;
+}
+
+.mx-auto {
+  margin-top: 2.5%;
+  margin-bottom: 2.5%;
+  width: 50%;
+}
+
+.ButtonLog {
+  margin-top: 5%;
+}
+
+.NavLog {
+  text-decoration: none;
+  color: white;
+}
+
+.NavLog:hover {
+  color: gray;
+}
+
+.contentlogpage {
+  margin-top: 17.5%;
+  margin-bottom: 20%;
+  width: 100%;
+}
+
+.divimg{
+  margin-bottom: 2.5%;
+}
+

@@ -1,0 +1,27 @@
+.fila {
+  margin-bottom: 5%;
+}
+
+.acordeon {
+  margin-top: 5%;
+  margin-right: 2.5%;
+  margin-left: 2.5%;
+}
+
+.botonEntregables {
+  background-color: #c03939;
+  float: left;
+  width: 35%;
+  margin-left: 2.5%;
+}
+
+.botonEntregables2 {
+  background-color: #c03939;
+  width: 100%;
+}
+
+.input {
+  margin-left: 7.5%;
+  width: 50%;
+  float: left;
+}
